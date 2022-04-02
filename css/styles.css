@@ -213,3 +213,6 @@ letter-spacing: 0.018em;
     display: flex;
     justify-content: space-between;
 }
+.desligado{
+    pointer-events: none;
+}
